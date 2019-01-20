@@ -1,1 +1,1 @@
-# CMPUT-414
+Introduction to Multimedia Technology (University of Alberta)
